@@ -1,2 +1,2 @@
 # PierreHuguet.github.io
-site web github Pierre
+site web github de Pierre
